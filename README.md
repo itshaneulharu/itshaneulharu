@@ -28,7 +28,7 @@ I build digital experiences that sit somewhere between **engineering and art** �
 
 I'm driven by a single question: *what happens when a website stops being a page and starts being an experience?*
 
-That question is what pulls me toward **3D environments**, **physics-driven animations**, **immersive particle systems**, and **dark, atmospheric aesthetics** that make people stop and actually look at a screen. I care deeply about the space between a user's intent and the interface's response — and I obsess over making that space as expressive as possible.
+That question is what pulls me toward **3D environments**, **immersive animations**, and **dark, atmospheric aesthetics** that make people stop and actually look at a screen. I care deeply about the space between a user's intent and the interface's response — and I obsess over making that space as expressive as possible.
 
 When I'm not building for the web, I'm studying the work of developers and designers who push the boundary of what browsers can do — people who treat the DOM like a canvas and JavaScript like a brush.
 
@@ -38,7 +38,6 @@ When I'm not building for the web, I'm studying the work of developers and desig
 
 ```
 🎬  Cinematic 3D Portfolios     →  React Three Fiber · Three.js · GLSL Shaders
-🌊  Interactive Particle Systems →  Custom WebGL · Canvas API · Physics Engines
 ✦   Scroll-Driven Narratives     →  GSAP ScrollTrigger · Lenis · Locomotive Scroll
 🖤  Dark Aesthetic UIs           →  Tailwind CSS · Framer Motion · CSS Variables
 ⚡  Performance-First Apps       →  Next.js · Edge Functions · Code Splitting
@@ -94,7 +93,7 @@ Explore my repos and you'll find:
 - 🎨 **UI component libraries** — reusable, animated, dark-themed React components
 - ⚡ **Performance explorations** — testing the limits of what browsers can render in real-time
 - 🛠 **Creative dev tools** — utilities and boilerplates for building expressive web experiences
-- 🧪 **Proof-of-concept builds** — experiments that start with "what if the whole site was a particle field?"
+- 🧪 **Proof-of-concept builds** — experimental interfaces that push the boundaries of the browser
 
 ---
 
