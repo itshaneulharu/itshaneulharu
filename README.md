@@ -70,24 +70,25 @@ An AI-powered application designed to analyze and process data intelligently —
 ### ♻️ CleanSort AI
 A smart waste management system powered by AI and IoT — uses computer vision to automatically classify and segregate waste in real time, improving recycling efficiency and reducing manual effort.
 
+### 🕵️ FraudLens
+An AI-based phishing and scam detection system that analyzes URLs, emails, and messages using NLP and machine learning for real-time threat detection.
+
 ---
 
 ## 🏆 Hackathons & Events
 
 Actively participated in national-level competitions, applying cybersecurity and programming skills to real-world challenges:
 
-- ⚡ **Luminus 2026**
-- 💻 **FantomCode**
-- 🧠 **Prajnotsava**
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.Tech – CSE (Cyber Security) | JAIN (Deemed-to-be University) | 2024 – 2028 | CGPA: 7.20 (up to 3rd sem) |
-| Class 12 – PCM + Computer Science | Kendriya Vidyalaya AFS, Thanjavur | 2023 – 2024 | 70% |
+- 🧠 **Prajnotsava 2026** — National-level Technical Symposium, CMR University *(March 2026)*
+- ⚡ **Luminus 2026** — National-Level Intercollegiate Tech Fest, RNS Institute of Technology
+  - Events: Escape and Exploit, Tech Escape Quest
+- 💻 **FantomCode 2026** — 24-Hour National Level Hackathon (Ideation Round), RV Institute of Technology & Management *(March 2026)*
+- 💡 **Ideathon (Grinova 2026)** — Jain University *(March 2026)*
+- 🛠 **DevCraft Hackathon** — Infosphere Club, Jain University *(April 2026)*
+- 🔓 **Hack & Crack** — Turing Club, Jain University *(March 2026)*
+- 🌐 **Beyond Code** — Cybersmart Club, Jain University *(March 2026)*
+- 🦑 **Squid Game Challenge** — FOSS Club, Jain University *(March 2026)*
+- 🧬 **Cheat Better** — Neuron Club, Jain University *(March 2026)*
 
 ---
 
