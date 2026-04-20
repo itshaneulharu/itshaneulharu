@@ -9,12 +9,12 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### ✦ Creative Developer · Digital Experience Architect · Motion Obsessive ✦
+### ✦ Cyber Security Engineer · AI Builder · Problem Solver ✦
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karunyavazhvarasu)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KarunyaSmiles_)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itshaneulharu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karunyawrites@gmail.com)
 
 </div>
 
@@ -22,78 +22,83 @@
 
 ## 🌑 Who Am I?
 
-I'm **Karunya** — a creative developer who refuses to believe that the web has to be boring.
+I'm **Karunya** — a B.Tech student specializing in **Computer Science & Engineering (Cyber Security)** at JAIN (Deemed-to-be University), driven by a deep curiosity for how systems work — and how they break.
 
-I build digital experiences that sit somewhere between **engineering and art** — where clean code meets cinematic visuals, where interactions feel *intentional*, and where every scroll, hover, and transition tells a story. My work isn't just functional — it's felt.
+I sit at the intersection of **security, AI, and software development** — building tools that are not just functional, but intelligent. From AI-powered applications to smart systems that solve real-world problems, I approach every project with the mindset of someone who wants to understand things at their core.
 
-I'm driven by a single question: *what happens when a website stops being a page and starts being an experience?*
+I've been sharpening my skills through **national-level hackathons and technical events** — including Luminus 2026, FantomCode, and Prajnotsava — applying cybersecurity and programming knowledge to challenges that actually matter.
 
-That question is what pulls me toward **3D environments**, **immersive animations**, and **dark, atmospheric aesthetics** that make people stop and actually look at a screen. I care deeply about the space between a user's intent and the interface's response — and I obsess over making that space as expressive as possible.
-
-When I'm not building for the web, I'm studying the work of developers and designers who push the boundary of what browsers can do — people who treat the DOM like a canvas and JavaScript like a brush.
+I'm currently seeking an **internship** where I can learn, contribute, and grow alongside people who take their craft seriously.
 
 ---
 
 ## ⚙️ What I Build
 
 ```
-🎬  Cinematic 3D Portfolios     →  React Three Fiber · Three.js · GLSL Shaders
-✦   Scroll-Driven Narratives     →  GSAP ScrollTrigger · Lenis · Locomotive Scroll
-🖤  Dark Aesthetic UIs           →  Tailwind CSS · Framer Motion · CSS Variables
-⚡  Performance-First Apps       →  Next.js · Edge Functions · Code Splitting
+🛡️  Cybersecurity Tools        →  Security Research · Vulnerability Analysis · Python
+🤖  AI-Powered Applications    →  Computer Vision · Intelligent Data Processing
+♻️  Smart IoT Systems          →  Waste Management · Sensor Integration · Automation
+🔍  Technical Research         →  Problem Solving · Debugging · Systems Analysis
 ```
 
 ---
 
 ## 🛠 Tech Stack
 
-#### Core
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-#### 3D & Motion
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/R3F-000?style=flat-square&logo=react&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=flat-square&logo=framer&logoColor=white)
-
-#### Styling & Design
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-#### Tools & Infra
+#### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+#### Areas of Interest
+![Cybersecurity](https://img.shields.io/badge/Cyber_Security-00A86B?style=flat-square&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0082C9?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-## ✦ Philosophy
+## 🚀 Projects
 
-> I believe the best digital experiences don't just communicate — they *resonate*.  
-> A good website isn't read. It's felt.
+### 🔎 ClearSight.ai
+An AI-powered application designed to analyze and process data intelligently — delivering meaningful insights and actionable solutions from complex inputs.
 
-I approach every project with three non-negotiables:
-
-- **Motion with meaning** — every animation exists for a reason, not decoration
-- **Dark by design** — contrast, depth, and atmosphere over flat and sterile
-- **Detail obsession** — the difference between good and unforgettable is always in the micro-interactions
+### ♻️ CleanSort AI
+A smart waste management system powered by AI and IoT — uses computer vision to automatically classify and segregate waste in real time, improving recycling efficiency and reducing manual effort.
 
 ---
 
-## 📂 What You'll Find Here
+## 🏆 Hackathons & Events
 
-Explore my repos and you'll find:
+Actively participated in national-level competitions, applying cybersecurity and programming skills to real-world challenges:
 
-- 🌌 **3D Portfolio experiments** — immersive environments built with WebGL and Three.js
-- 🎨 **UI component libraries** — reusable, animated, dark-themed React components
-- ⚡ **Performance explorations** — testing the limits of what browsers can render in real-time
-- 🛠 **Creative dev tools** — utilities and boilerplates for building expressive web experiences
-- 🧪 **Proof-of-concept builds** — experimental interfaces that push the boundaries of the browser
+- ⚡ **Luminus 2026**
+- 💻 **FantomCode**
+- 🧠 **Prajnotsava**
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| B.Tech – CSE (Cyber Security) | JAIN (Deemed-to-be University) | 2024 – 2028 | CGPA: 7.20 (up to 3rd sem) |
+| Class 12 – PCM + Computer Science | Kendriya Vidyalaya AFS, Thanjavur | 2023 – 2024 | 70% |
+
+---
+
+## ✦ Skills
+
+- 🎨 Designing & Photography
+- 🔬 Technical Research
+- 🐛 Debugging & Problem Solving
+- 🛠 Fixing Systems & Tool Handling
+- 📚 Quick & Continuous Learner
+- 🌐 Multilingual — Tamil, Hindi, English
 
 ---
 
@@ -111,19 +116,19 @@ Explore my repos and you'll find:
 
 ---
 
-## 🤝 Let's Build Something
+## 🤝 Let's Connect
 
-I'm always open to collaborating on projects that care about craft — whether it's a wild creative experiment, an expressive portfolio, or a product that deserves better than a template.
+I'm always open to internship opportunities, collaborations, and projects that push the limits of what's possible with security and AI.
 
-If you have an idea that needs someone who takes design *seriously*, let's talk.
+If you're working on something meaningful and need someone who learns fast and cares about the details — let's talk.
 
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/karunyavazhvarasu) · [X](https://x.com/KarunyaSmiles_) · or just open an issue on a repo you like.
+📬 Reach me at [karunyawrites@gmail.com](mailto:karunyawrites@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karunyavazhvarasu) · [X](https://x.com/KarunyaSmiles_)
 
 ---
 
 <div align="center">
 
-*Designed in the dark. Shipped with intention.*
+*Built with curiosity. Secured with intent.*
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
